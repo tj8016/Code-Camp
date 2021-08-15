@@ -1135,9 +1135,9 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
-.team .member:hover{
+/* .team .member:hover{
   transform: translateY(-5px);
-}
+} */
 
 
 .team .member .member-img {
@@ -1171,9 +1171,9 @@ section {
   justify-content: center;
 }
 
-/* .team .member .social a:hover {
+.team .member .social a:hover {
   transform: translateY(-5px);
-} */
+}
 
 .team .member .social i {
   font-size: 18px;
